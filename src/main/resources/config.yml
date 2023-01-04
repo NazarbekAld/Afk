@@ -1,0 +1,5 @@
+
+Region: afk
+Countdown: 100 # seconds
+Rewards:
+  - give %player_name% oak_log 32

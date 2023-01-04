@@ -1,0 +1,9 @@
+name: Afk
+version: '${project.version}'
+main: com.nazarxexe.afk.Afk
+api-version: 1.18
+
+depend:
+  - PlaceholderAPI
+
+authors: [ NazarbekAlda ]
